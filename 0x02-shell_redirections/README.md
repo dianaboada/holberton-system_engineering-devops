@@ -1,4 +1,4 @@
-      COMANDS TO LEARN
+      COMMANDS TO LEARN
 
 echo
 cat
